@@ -21,10 +21,7 @@
     text-decoration: underline;
     cursor: none;
     display: inline-block;
-
-    &:hover {
-      box-shadow: 0 0 10px #1daa1b inset;
-    }
+    box-shadow: 0 0 10px #1daa1b inset;
 
     ::selection {
       color: #0d0d0d;

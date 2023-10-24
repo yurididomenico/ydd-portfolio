@@ -49,6 +49,6 @@ export class AboutComponent implements OnInit, AfterViewInit {
         'languages',
         this.servicePrintLetter.descriptions.languages
       );
-    }, 19000);
+    }, 18000);
   }
 }
